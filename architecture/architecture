@@ -1,0 +1,11 @@
+runicore-engine/
+├─ src/
+│  ├─ core/          # Engine core
+│  ├─ db/            # Database connectors
+│  ├─ execution/     # Python script runner, sandbox
+│  ├─ plugins/       # Plugin loader & manager
+│  └─ utils/         # Logging, config, common utilities
+├─ tests/            # Unit & integration tests
+├─ examples/         # Example plugins or scripts
+├─ README.md
+└─ LICENSE
